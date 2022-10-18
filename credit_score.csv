@@ -1,4 +1,4 @@
-,kode_kontrak,pendapatan_setahun_juta,kpr_aktif,durasi_pinjaman_bulan,jumlah_tanggungan,rata_rata_overdue,risk_rating
+no,kode_kontrak,pendapatan_setahun_juta,kpr_aktif,durasi_pinjaman_bulan,jumlah_tanggungan,rata_rata_overdue,risk_rating
 1,AGR-000001,295,YA,48,5,61 - 90 days,4
 2,AGR-000011,271,YA,36,5,61 - 90 days,4
 3,AGR-000030,159,TIDAK,12,0,0 - 30 days,1
